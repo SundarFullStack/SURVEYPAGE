@@ -1,0 +1,42 @@
+
+
+  .box_inside{
+    
+    border-radius: 8px;
+    margin: 0px;
+    background-color: bisque;
+    padding: 143px;
+  }
+
+  form{
+    margin: -74px;
+  }
+
+  .required:after {
+    content:" *";
+    color: red;
+  }
+
+  #star_rating{
+    margin-left: -70px;
+    color: #c1c103;
+    font-size: 30px;
+    margin-top: 1px;
+  }
+
+  #star_header{
+    margin-left: -79px;
+    margin-top: 110px;
+}
+
+td{
+  text-align: center;
+}
+
+
+  
+
+
+  
+
+ 
